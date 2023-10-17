@@ -8,7 +8,7 @@ Python library of modules designed for video game construction.
 
 Python functions that can be used to manipulate Python runtime environments.
 
-# from random import randint
+# random import randint
 
 random integer generator 
 
